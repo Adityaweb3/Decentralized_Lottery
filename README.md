@@ -13,6 +13,7 @@ so for Goerli Testnet :
   
   CallbackGasLimit : 500000 
 
+We can set entry fee and interval for the lottery 
 
 
 
